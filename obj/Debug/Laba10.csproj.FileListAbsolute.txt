@@ -1,0 +1,20 @@
+C:\Users\Роман\source\repos\Laba10\Laba10\bin\Debug\Laba10.exe.config
+C:\Users\Роман\source\repos\Laba10\Laba10\bin\Debug\Laba10.exe
+C:\Users\Роман\source\repos\Laba10\Laba10\bin\Debug\Laba10.pdb
+C:\Users\Роман\source\repos\Laba10\Laba10\obj\Debug\Laba10.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\Laba10\Laba10\obj\Debug\Laba10.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\Laba10\Laba10\obj\Debug\Laba10.exe
+C:\Users\Роман\source\repos\Laba10\Laba10\obj\Debug\Laba10.pdb
+E:\1 курс\10 лаба\лаба10\Laba10\Laba10\bin\Debug\Laba10.exe.config
+E:\1 курс\10 лаба\лаба10\Laba10\Laba10\obj\Debug\Laba10.exe
+E:\1 курс\10 лаба\лаба10\Laba10\Laba10\obj\Debug\Laba10.pdb
+E:\1 курс\10 лаба\лаба10\Laba10\Laba10\bin\Debug\Laba10.exe
+E:\1 курс\10 лаба\лаба10\Laba10\Laba10\bin\Debug\Laba10.pdb
+E:\1 курс\10 лаба\лаба10\Laba10\Laba10\obj\Debug\Laba10.csprojResolveAssemblyReference.cache
+I:\1 курс\10 лаба\лаба10\Laba10\Laba10\bin\Debug\Laba10.exe.config
+I:\1 курс\10 лаба\лаба10\Laba10\Laba10\bin\Debug\Laba10.exe
+I:\1 курс\10 лаба\лаба10\Laba10\Laba10\bin\Debug\Laba10.pdb
+I:\1 курс\10 лаба\лаба10\Laba10\Laba10\obj\Debug\Laba10.csprojAssemblyReference.cache
+I:\1 курс\10 лаба\лаба10\Laba10\Laba10\obj\Debug\Laba10.csproj.CoreCompileInputs.cache
+I:\1 курс\10 лаба\лаба10\Laba10\Laba10\obj\Debug\Laba10.exe
+I:\1 курс\10 лаба\лаба10\Laba10\Laba10\obj\Debug\Laba10.pdb
